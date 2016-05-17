@@ -1,2 +1,2 @@
 # Practice_makes_perfect
-kkkk hhhhhh
+Learn python in 40 min yeah!
